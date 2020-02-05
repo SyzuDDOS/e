@@ -1,0 +1,3 @@
+# This script Own By SyzuTopia
+# 1. How to use Syzu_DDOS [`Watch it`](https://youtu.be/CxG6QLjy9Og) 
+# 2. Fork it...
